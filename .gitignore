@@ -1,0 +1,11 @@
+
+# Ignore all the images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tiff
+
+# Ignore excel and csv
+*.xlsx
+*.csv
