@@ -9,9 +9,12 @@
 # Ignore excel and csv
 *.xlsx
 *.csv
+*.ckpt
 Deep Learning/Pytorch and scikit/Chapter 12- NN with Pytorch/celeba/identity_CelebA.txt
 Deep Learning/Pytorch and scikit/Chapter 12- NN with Pytorch/celeba/list_attr_celeba.txt
 Deep Learning/Pytorch and scikit/Chapter 12- NN with Pytorch/celeba/list_landmarks_align_celeba.txt
 Deep Learning/Pytorch and scikit/Chapter 12- NN with Pytorch/celeba/list_landmarks_celeba.txt
 Deep Learning/Pytorch and scikit/Chapter 12- NN with Pytorch/celeba/list_bbox_celeba.txt
 Deep Learning/Pytorch and scikit/Chapter 12- NN with Pytorch/celeba/list_eval_partition.txt
+Deep Learning/Pytorch and scikit/Chapter 12- NN with Pytorch/iris_classifier.pt
+Deep Learning/Pytorch and scikit/Chapter 12- NN with Pytorch/iris_classifier_state.pt
